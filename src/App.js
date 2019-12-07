@@ -1,13 +1,15 @@
 import React from 'react'
 // import logo from './logo.svg';
 // import Home from './pages/home'
-import ToDo from './pages/other/tongxun'
+import Six from './pages/other/six'
+import Seven from './pages/other/sever'
 import './App.css'
 
 function App () {
   return (
     <div className='App'>
-      <ToDo />
+      <Six />
+      <Seven />
     </div>
   )
 }
